@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "946831479080",
+    "project_id": "notetakingapp-14daf",
+    "storage_bucket": "notetakingapp-14daf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946831479080:android:af8fe1b6ad706818e9801d",
+        "android_client_info": {
+          "package_name": "com.example.note_taking_tpp3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "946831479080-7d1n3l0stqa558b5nk0p5iq031141m62.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.note_taking_tpp3",
+            "certificate_hash": "3f1f73e2db07d0c1b9c3d1d60253817e52f39746"
+          }
+        },
+        {
+          "client_id": "946831479080-k81b6nrd6bg6pjm4phlogg09ru0uuh76.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhMlKDiDnP1NmM1AWvTxbylAjcgcrzvNY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "946831479080-k81b6nrd6bg6pjm4phlogg09ru0uuh76.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
