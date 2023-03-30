@@ -28,24 +28,27 @@ environment:
 # the latest version available on pub.dev. To see which dependencies have newer
 # versions available, run `flutter pub outdated`.
 dependencies:
+  auto_size_text: ^3.0.0
+  awesome_dialog: ^3.0.2
+  cloud_firestore: ^4.4.3
+  cupertino_icons: ^1.0.2
+  device_preview: ^1.1.0
+  firebase_auth: ^4.2.0
+  firebase_core: ^2.7.0
+  firebase_storage: ^11.0.14
   flutter:
     sdk: flutter
-
-  # The following adds the Cupertino Icons font to your application.
-  # Use with the CupertinoIcons class for iOS style icons.
-  cupertino_icons: ^1.0.2
   flutter_launcher_icons: ^0.11.0
   flutter_native_splash: ^2.2.16
-  firebase_core: ^2.7.0
-  firebase_auth: ^4.2.9
-  google_fonts: ^4.0.3
-  flutter_svg: ^2.0.2
-  google_sign_in: ^6.0.1
+  flutter_screenutil: ^5.7.0
   flutter_signin_button: ^2.0.0
-  cloud_firestore: ^4.4.3
+  flutter_svg: ^2.0.2
+  get: ^4.6.5
+  google_fonts: ^4.0.3
+  google_sign_in: ^6.0.1
   image_picker: ^0.8.6+4
-  firebase_storage: ^11.0.14
-  awesome_dialog: ^3.0.2
+  shared_preferences: ^2.0.20
+  # sizer: ^2.0.15
 
 dev_dependencies:
   flutter_test:
@@ -83,7 +86,6 @@ flutter_icons:
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
-
 # The following section is specific to Flutter packages.
 flutter:
   # The following line ensures that the Material Icons font is
@@ -99,10 +101,8 @@ flutter:
     - assets/
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware
-
   # For details regarding adding assets from package dependencies, see
   # https://flutter.dev/assets-and-images/#from-packages
-
   # To add custom fonts to your application, add a fonts section here,
   # in this "flutter" section. Each entry in this list should have a
   # "family" key with the font family name, and a "fonts" key with a
