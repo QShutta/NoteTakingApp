@@ -17,6 +17,11 @@ Multiple Languages: The app supports multiple languages, allowing users to choos
 Dark Mode: The app includes support for dark mode, allowing users to switch to a darker theme to reduce eye strain in low-light environments.
 
 **Screenshots**
+| Image | Image | Image | Image | Image | Image | Image | Image | Image | Image |
+|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|
+| <img src="https://user-images.githubusercontent.com/104342138/228775938-bd5eaf1e-9401-4423-8f50-fbda2b65452a.png" width="100" height="100"/> | <img src="https://user-images.githubusercontent.com/104342138/228775938-bd5eaf1e-9401-4423-8f50-fbda2b65452a.png" width="100" height="100"/> | <img src="https://user-images.githubusercontent.com/104342138/228775938-bd5eaf1e-9401-4423-8f50-fbda2b65452a.png" width="100" height="100"/> | <img src="https://user-images.githubusercontent.com/104342138/228775938-bd5eaf1e-9401-4423-8f50-fbda2b65452a.png" width="100" height="100"/> | <img src="https://user-images.githubusercontent.com/104342138/228775938-bd5eaf1e-9401-4423-8f50-fbda2b65452a.png" width="100" height="100"/> | <img src="https://user-images.githubusercontent.com/104342138/228775938-bd5eaf1e-9401-4423-8f50-fbda2b65452a.png" width="100" height="100"/> | <img src="https://user-images.githubusercontent.com/104342138/228775938-bd5eaf1e-9401-4423-8f50-fbda2b65452a.png" width="100" height="100"/> | <img src="https://user-images.githubusercontent.com/104342138/228775938-bd5eaf1e-9401-4423-8f50-fbda2b65452a.png" width="100" height="100"/> | <img src="https://user-images.githubusercontent.com/104342138/228775938-bd5eaf1e-9401-4423-8f50-fbda2b65452a.png" width="100" height="100"/> | <img src="https://user-images.githubusercontent.com/104342138/228775938-bd5eaf1e-9401-4423-8f50-fbda2b65452a.png" width="100" height="100"/> |
+
+
 |<img src="https://user-images.githubusercontent.com/104342138/228775938-bd5eaf1e-9401-4423-8f50-fbda2b65452a.png" width="100" height="100"/>|
 |<img src="https://user-images.githubusercontent.com/104342138/228775938-bd5eaf1e-9401-4423-8f50-fbda2b65452a.png" width="100" height="100"/>|
 
