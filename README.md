@@ -17,46 +17,6 @@ Multiple Languages: The app supports multiple languages, allowing users to choos
 Dark Mode: The app includes support for dark mode, allowing users to switch to a darker theme to reduce eye strain in low-light environments.
 
 **Screenshots**
-<style>
-  table {
-    border-collapse: collapse;
-    width: 100%;
-  }
-  th, td {
-    border: 1px solid black;
-    padding: 10px;
-    text-align: center;
-  }
-  td {
-    background-color: #f2f2f2;
-  }
-  td:hover {
-    background-color: #ddd;
-  }
-</style>
-
-<table>
-  <caption>Amazing table with images</caption>
-  <tr>
-    <td><img src="https://user-images.githubusercontent.com/104342138/228775714-320a7b4f-8420-4b1b-98f4-89c7e6118368.png" width="200" height="200"></td>
-    <td><img src="https://user-images.githubusercontent.com/104342138/228775938-bd5eaf1e-9401-4423-8f50-fbda2b65452a.png" width="200" height="200"></td>
-  </tr>
-  <tr>
-    <td><img src="https://user-images.githubusercontent.com/104342138/228775957-058834ff-8724-4107-a45a-1c297fb5a1ba.png" width="200" height="200"></td>
-    <td><img src="https://user-images.githubusercontent.com/104342138/228775971-53b77f23-f6b6-4c8f-89e5-3b170816a85d.png" width="200" height="200"></td>
-  </tr>
-  <tr>
-    <td><img src="https://user-images.githubusercontent.com/104342138/228775984-26820d41-c75f-4803-a386-414e93003cd7.png" width="200" height="200"></td>
-    <td><img src="https://user-images.githubusercontent.com/104342138/228775993-f1e04f4b-7d01-4ad5-8220-4894933a18d3.png" width="200" height="200"></td>
-  </tr>
-  <tr>
-    <td><img src="https://user-images.githubusercontent.com/104342138/228776061-281049e4-2817-43eb-ab05-c58b81b78414.png" width="200" height="200"></td>
-    <td><img src="https://user-images.githubusercontent.com/104342138/228776088-035de750-0b60-4be3-b1eb-bb09997d4674.png" width="200" height="200"></td>
-  </tr>
-  <tr>
-    <td><img src="https://user-images.githubusercontent.com/104342138/228776108-ba5c81a0-52f2-4516-85f2-b704e5f3ee2d.png" width="200"
-
-             
 
 
 <table>
