@@ -20,6 +20,7 @@ SharedPreferences? sharePref;
 //المتغير دة بمثل ليك  الثيم بتاع التطبيق
 ThemeData? initalTheme;
 void main() async {
+  print("How are you");
   WidgetsFlutterBinding.ensureInitialized();
   SystemChrome.setPreferredOrientations(
       [DeviceOrientation.portraitUp, DeviceOrientation.portraitDown]);
