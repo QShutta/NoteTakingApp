@@ -18,7 +18,7 @@ Dark Mode: The app includes support for dark mode, allowing users to switch to a
 
 **Screenshots**
 
-![Screenshot_20230326-144608](https://user-images.githubusercontent.com/104342138/228775714-320a7b4f-8420-4b1b-98f4-89c7e6118368.png| width 50)
+![Screenshot_20230326-144608](https://user-images.githubusercontent.com/104342138/228775714-320a7b4f-8420-4b1b-98f4-89c7e6118368.png| width=50)
 ![Screenshot_20230330-082720](https://user-images.githubusercontent.com/104342138/228775938-bd5eaf1e-9401-4423-8f50-fbda2b65452a.png)
 ![Screenshot_20230330-083528](https://user-images.githubusercontent.com/104342138/228775957-058834ff-8724-4107-a45a-1c297fb5a1ba.png)
 ![Screenshot_20230330-083540](https://user-images.githubusercontent.com/104342138/228775971-53b77f23-f6b6-4c8f-89e5-3b170816a85d.png)
